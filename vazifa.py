@@ -1,3 +1,5 @@
+from functools import reduce
+
 # # 1,
 # def tub(a):
 #     if a < 2:
@@ -15,7 +17,6 @@
 #
 # lst = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 # print(masala_1())
-from functools import reduce
 
 
 # # 2
